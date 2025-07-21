@@ -2,6 +2,9 @@
 
 SaySo is an Adobe Express add-on that transforms spoken design feedback into actionable tasks, streamlining creative collaboration.
 
+NeedFinding: https://drive.google.com/file/d/1eoLmkiWKwV6QCq8fMYzvWu-4M3YbZBe2/view?usp=sharing
+Technical Specifications: https://drive.google.com/file/d/1TQKcweo7patCkmQC_5w1Z0LtzqMygcDj/view?usp=sharing
+
 ## Features
 
 - Record or upload audio feedback
