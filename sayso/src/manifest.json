@@ -1,0 +1,26 @@
+{
+    "testId": "3e87867f-6899-4cfa-8e48-702e6e3c73fc",
+    "name": "SaySo Addon",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ],
+        "renditionPreview": true
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html",
+            "documentSandbox": "code.js",
+            "permissions": {
+                "microphone": "*"
+            }
+        }
+    ]
+}
